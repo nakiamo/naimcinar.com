@@ -1,5 +1,6 @@
 aseURL = "http://www.naimcinar.com"
 title = "naimcinar"
+googleAnalytics = "UA-189160203-1"
 
 theme = "hugo-coder"
 
@@ -16,12 +17,12 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Naim Cinar"
-    description = "Naim Cinar's personal website"
-    keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
-    avatarURL = "images/avatar.jpg"
+    description = "Naim Cinar's academic website"
+    keywords = "blog,academic,advertising,personal"
+    info = "(Ph.D.) Advertising and Public Relations"
+    avatarURL = "images/avatar-naim.png"
     #gravatar = "john.doe@example.com"
-    footerContent = "Enter a text here."
+    footerContent = "naimcinar.com"
 
     dateFormat = "January 2, 2006"
 
@@ -31,7 +32,7 @@ disqusShortname = "yourdiscussshortname"
     since = 2019
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+    commit = ""
 
     rtl = false
 
@@ -66,36 +67,37 @@ disqusShortname = "yourdiscussshortname"
   tag = "tags"
   author = "authors"
 
+  
+  [[params.social]]
+    name = "Instagram"
+    icon = "fa fa-instagram"
+    weight = 1
+    url = "https://www.instagram.com/naimcinar/"
+  [[params.social]]
+    name = "AnadoluUniversity"
+    icon = "fa fa-university"
+    weight = 2
+    url = "https://akademik.anadolu.edu.tr/naimcinar"
   [[params.social]]
     name = "Github"
     icon = "fa fa-github"
-    weight = 1
-    url = "https://github.com/johndoe/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fa fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
-[[params.social]]
+    weight = 3
+    url = "https://github.com/nakiamo/"
+  [[params.social]]
     name = "Twitter"
     icon = "fa fa-twitter"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
-[[params.social]]
-    name = "LinkedIn"
-    icon = "fa fa-linkedin"
-    weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
-[[params.social]]
-    name = "Medium"
-    icon = "fa fa-medium"
     weight = 5
-    url = "https://medium.com/@johndoe"
-[[params.social]]
+    url = "hhttps://twitter.com/naimcinar/"
+  [[params.social]]
+    name = "Linkedin"
+    icon = "fa fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/naim-cinar-39116730/"
+  [[params.social]]
     name = "RSS"
     icon = "fa fa-rss"
-    weight = 6
-    url = "https://myhugosite.com/index.xml"
+    weight = 8
+    url = "https://www.naimcinar.com/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
 
@@ -117,11 +119,21 @@ disqusShortname = "yourdiscussshortname"
             url = "posts/"
 
             [[languages.en.menu.main]]
-            name = "Projects"
+            name = "Photography"
             weight = 3
-            url = "projects/"
+            url = "https://naimcinar.myportfolio.com/"
 
             [[languages.en.menu.main]]
-            name = "Contact me"
+            name = "Teaching"
+            weight = 4
+            url = "teaching/"
+
+            [[languages.en.menu.main]]
+            name = "Publications"
             weight = 5
+            url = "publications/"
+
+            [[languages.en.menu.main]]
+            name = "Contact"
+            weight = 6
             url = "contact/"
