@@ -13,7 +13,7 @@ pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "www-naimcinar-com"
 
 [params]
     author = "Naim Cinar"
