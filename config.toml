@@ -1,5 +1,5 @@
-aseURL = "http://www.example.com"
-title = "johndoe"
+aseURL = "http://www.naimcinar.com"
+title = "naimcinar"
 
 theme = "hugo-coder"
 
@@ -15,7 +15,7 @@ pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
+    author = "Naim Cinar"
     description = "John Doe's personal website"
     keywords = "blog,developer,personal"
     info = "Full Stack DevOps and Magician"
