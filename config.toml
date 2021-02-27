@@ -122,6 +122,7 @@ disqusShortname = "www-naimcinar-com"
             name = "Photography"
             weight = 3
             url = "https://naimcinar.myportfolio.com/"
+            target = "_blank"
 
             [[languages.en.menu.main]]
             name = "Teaching"
