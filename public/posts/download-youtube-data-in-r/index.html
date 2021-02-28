@@ -8,18 +8,18 @@
     
 
     <meta name="author" content="Naim Cinar">
-    <meta name="description" content="Enable APIs    The first step is to enable APIs on Google API Console. You need a Google account to do this.
- Click on &#43;ENABLE APIS AND SERVICES Type &lsquo;Youtube&rsquo; on the search bar. You will see four options (Youtube Data API v3, Youtube Analytics API, Youtube Ads Reach API and Youtube Reporting API). Enable all of them. Type &lsquo;Freebase API&rsquo; on the search bar and enable it, too.">
+    <meta name="description" content="Enable APIs ¶The first step is to enable APIs on Google API Console. You need a Google account to do this.
+ Click on &#43;ENABLE APIS AND SERVICES Type &lsquo;Youtube&rsquo; on the search bar. You will see four options (Youtube Data API v3, Youtube Analytics API, Youtube Ads Reach API and Youtube Reporting API). Enable all of them. Type &lsquo;Freebase API&rsquo; on the search bar and enable it, too.  Now all the APIs are enabled.">
     <meta name="keywords" content="blog,academic,advertising,personal">
 
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Getting YouTube Data with R using Tuber: Download YouTube Comments"/>
-<meta name="twitter:description" content="Enable APIs    The first step is to enable APIs on Google API Console. You need a Google account to do this.
- Click on &#43;ENABLE APIS AND SERVICES Type &lsquo;Youtube&rsquo; on the search bar. You will see four options (Youtube Data API v3, Youtube Analytics API, Youtube Ads Reach API and Youtube Reporting API). Enable all of them. Type &lsquo;Freebase API&rsquo; on the search bar and enable it, too."/>
+<meta name="twitter:description" content="Enable APIs ¶The first step is to enable APIs on Google API Console. You need a Google account to do this.
+ Click on &#43;ENABLE APIS AND SERVICES Type &lsquo;Youtube&rsquo; on the search bar. You will see four options (Youtube Data API v3, Youtube Analytics API, Youtube Ads Reach API and Youtube Reporting API). Enable all of them. Type &lsquo;Freebase API&rsquo; on the search bar and enable it, too.  Now all the APIs are enabled."/>
 
     <meta property="og:title" content="Getting YouTube Data with R using Tuber: Download YouTube Comments" />
-<meta property="og:description" content="Enable APIs    The first step is to enable APIs on Google API Console. You need a Google account to do this.
- Click on &#43;ENABLE APIS AND SERVICES Type &lsquo;Youtube&rsquo; on the search bar. You will see four options (Youtube Data API v3, Youtube Analytics API, Youtube Ads Reach API and Youtube Reporting API). Enable all of them. Type &lsquo;Freebase API&rsquo; on the search bar and enable it, too." />
+<meta property="og:description" content="Enable APIs ¶The first step is to enable APIs on Google API Console. You need a Google account to do this.
+ Click on &#43;ENABLE APIS AND SERVICES Type &lsquo;Youtube&rsquo; on the search bar. You will see four options (Youtube Data API v3, Youtube Analytics API, Youtube Ads Reach API and Youtube Reporting API). Enable all of them. Type &lsquo;Freebase API&rsquo; on the search bar and enable it, too.  Now all the APIs are enabled." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/posts/download-youtube-data-in-r/" />
 <meta property="article:published_time" content="2020-04-23T00:06:40+03:00" />
@@ -171,25 +171,15 @@
 
       <div>
         
-        <h2 id="enable-apis">
-  Enable APIs
-  <a class="heading-link" href="#enable-apis">
-    <i class="fa fa-link" aria-hidden="true"></i>
-  </a>
-</h2>
-<p>The first step is to enable APIs on <a href="https://console.developers.google.com/apis/dashboard" target="_blank">Google API Console</a>. You need a Google account to do this.</p>
+        
+<h2 id="enable-apis">Enable APIs <a href="#enable-apis">¶</a></h2><p>The first step is to enable APIs on <a href="https://console.developers.google.com/apis/dashboard" target="_blank">Google API Console</a>. You need a Google account to do this.</p>
 <ul>
 <li>Click on +ENABLE APIS AND SERVICES</li>
 <li>Type &lsquo;Youtube&rsquo; on the search bar. You will see four options (Youtube Data API v3, Youtube Analytics API, Youtube Ads Reach API and Youtube Reporting API). Enable all of them.</li>
 <li>Type &lsquo;Freebase API&rsquo; on the search bar and enable it, too.</li>
 </ul>
-<h2 id="now-all-the-apis-are-enabled-its-time-to-create-your-credentials">
-  Now all the APIs are enabled. It&rsquo;s time to create your credentials.
-  <a class="heading-link" href="#now-all-the-apis-are-enabled-its-time-to-create-your-credentials">
-    <i class="fa fa-link" aria-hidden="true"></i>
-  </a>
-</h2>
-<ul>
+
+<h2 id="now-all-the-apis-are-enabled-its-time-to-create-your-credentials">Now all the APIs are enabled. It&rsquo;s time to create your credentials. <a href="#now-all-the-apis-are-enabled-its-time-to-create-your-credentials">¶</a></h2><ul>
 <li>Click on &lsquo;Credentials&rsquo; link on the left menu.</li>
 <li>Now click on +CREATE CREDENTIALS and choose &lsquo;OAuth Client ID&rsquo; option. Type in some name in the box and choose &lsquo;Other&rsquo; from &lsquo;Application Type&rsquo; list and click the&rsquo;Create' button.</li>
 </ul>
@@ -201,13 +191,8 @@
 <li>You can now reach your client_id and client_secret when you click on the client ID name under OAuth 2.0 Client IDs list.</li>
 <li>One last thing, we will choose localhost to upload the data. On the &lsquo;OAuth 2.0 Client IDs list&rsquo;, you will see an edit button (small pen shape icon), click on it. You will see an &lsquo;Authorized redirect URLs&rsquo; option at the end. Write http://localhost:1410/ in the box and save.</li>
 </ul>
-<h2 id="install-tuber">
-  Install Tuber
-  <a class="heading-link" href="#install-tuber">
-    <i class="fa fa-link" aria-hidden="true"></i>
-  </a>
-</h2>
-<p>Tuber package enables you to &ldquo;Get comments posted on YouTube videos, information on how many times a video has been liked, search for videos with particular content, andvmuch more. You can also scrape captions from a few videos</p>
+
+<h2 id="install-tuber">Install Tuber <a href="#install-tuber">¶</a></h2><p>Tuber package enables you to &ldquo;Get comments posted on YouTube videos, information on how many times a video has been liked, search for videos with particular content, andvmuch more. You can also scrape captions from a few videos</p>
 <p>Install the latest version from CRAN
 <div class="highlight"><div style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
 <table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
@@ -228,13 +213,8 @@
 </code></pre></td></tr></table>
 </div>
 </div></p>
-<h2 id="example-using-tuber-to-download-youtube-comments-of-a-video">
-  Example: Using Tuber to download YouTube comments of a video.
-  <a class="heading-link" href="#example-using-tuber-to-download-youtube-comments-of-a-video">
-    <i class="fa fa-link" aria-hidden="true"></i>
-  </a>
-</h2>
-<ul>
+
+<h2 id="example-using-tuber-to-download-youtube-comments-of-a-video">Example: Using Tuber to download YouTube comments of a video. <a href="#example-using-tuber-to-download-youtube-comments-of-a-video">¶</a></h2><ul>
 <li>Paste your client_id and client_list inside the code below.</li>
 <li>Paste the video_id of the YouTube video (<a href="https://youtu.be/liJVSwOiiwg" target="_blank">How to find YouTube video ID</a>)</li>
 </ul>
