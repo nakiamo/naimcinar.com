@@ -6,26 +6,24 @@ draft: false
 
 ## ARTICLES
 
-+ Çınar, N. (2018)**An evaluation of source effects in consumer generated ads**
++ Çınar, N. (2018) [An evaluation of source effects in consumer generated ads](http://www.unav.es/fcom/communication-society/en/resumen.php?art_id=667)
 Communication & Society
 31 (1), 147-167
-[Download](http://www.unav.es/fcom/communication-society/en/resumen.php?art_id=667)<p>
 
-+ Çınar, N (2016)**Understanding the Motives for Joining Ethnic Online Communities A Study of Turks in Norway**
+
++ Çınar, N (2016) [Understanding the Motives for Joining Ethnic Online Communities A Study of Turks in Norway](http://journal.yasar.edu.tr/wp-content/uploads/2016/08/Nisan-2016-Say%C4%B1s%C4%B1.pdf)
 Journal of Yasar University
 11(42), 67-76
-[Download](http://journal.yasar.edu.tr/wp-content/uploads/2016/08/Nisan-2016-Say%C4%B1s%C4%B1.pdf)<p>
 
-+ Çınar, N. & Uztuğ, F. (2015)**Tüketicilerin yaşadıkları olumsuz satın alma deneyimlerine tepkileri: intikam mı, misilleme mi? Consumer reactions to negative purchase experiences: revenge or retaliation** *(in Turkish)*
++ Çınar, N. & Uztuğ, F. (2015) [Tüketicilerin yaşadıkları olumsuz satın alma deneyimlerine tepkileri: intikam mı, misilleme mi? Consumer reactions to negative purchase experiences: revenge or retaliation](https://dergipark.org.tr/e-gifder/article/98553) (*in Turkish*)
 E-Gifder
 3(2), 40-56
-[Download](https://dergipark.org.tr/e-gifder/article/98553)<p>
 
 ## BOOK CHAPTERS
 
-+ Çınar, N. (2020) [**The rise of consumer generated content and its transformative effect on the future of advertising**](https://www.taylorfrancis.com/books/e/9781351015431/chapters/10.4324/9781351015431-12) In M. Filimowicz & V. Tzankova (Eds.), *Reimagining communication: Mediation*. New York: Routledge
++ Çınar, N. (2020) [The rise of consumer generated content and its transformative effect on the future of advertising](https://www.taylorfrancis.com/books/e/9781351015431/chapters/10.4324/9781351015431-12) In M. Filimowicz & V. Tzankova (Eds.), *Reimagining communication: Mediation*. New York: Routledge
 
-+ Özbaş, Z. & Çınar, N. (2019) [**Sosyal ağlarda neler oluyor? Sosyal ağ analizi ile pazarlama iletişimi araştırmaları (Applying social network analysis in marketing communication research)**](https://www.detayyayin.com.tr/urun/iletisim-arastirmalarinda-farkli-bakis-acilari) In Şener, G. & Yıldız, S. (Eds.), *İletişim araştırmalarında farklı bakış açıları*. Ankara: Detay Yayınları  
++ Özbaş, Z. & Çınar, N. (2019) [Sosyal ağlarda neler oluyor? Sosyal ağ analizi ile pazarlama iletişimi araştırmaları (Applying social network analysis in marketing communication research)](https://www.detayyayin.com.tr/urun/iletisim-arastirmalarinda-farkli-bakis-acilari) In Şener, G. & Yıldız, S. (Eds.), *İletişim araştırmalarında farklı bakış açıları*. Ankara: Detay Yayınları  
 
 + Çınar, N. (2017) **Yeni medya ortamında reklamcılığın dönüşümü (Transformation of advertising in new media environment)** In Yazıcı, M. & Çınar, N. (eds), *Reklam Kampanya Analizi* Eskişehir: Anodolu Üniversitesi Açıköğretim Yayını.
 
