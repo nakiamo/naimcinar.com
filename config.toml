@@ -24,6 +24,8 @@ disqusShortname = "www-naimcinar-com"
     #gravatar = "john.doe@example.com"
     footerContent = "naimcinar.com"
 
+    ShowDatesOnPosts = false
+
     dateFormat = "January 2, 2006"
 
     hideFooter = false
